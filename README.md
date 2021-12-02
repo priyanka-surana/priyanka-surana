@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Priyanka Surana, Senior Bioinformatician in the Tree of Life programme at the Wellcome Sanger Insitute, Cambridge, UK
-- 👀 I’m interested in automated portable pipeline development and software distribution
-- 🌱 I’m currently learning Nextflow Tower and GitHub Hooks
-- :fist: I'm also interested in science communication and public engagement projects to improve representation and equity for marginalized groups in science
-- 💞️ I’m looking to collaborate on pipeline development, science communication, and public engagement.
-- 📫 How to reach me ...
+- 👀 Interested in automated portable pipeline development and software distribution
+- 🌱 Currently learning Nextflow Tower and GitHub Hooks
+- :fist: Other Interests: Science communication and public engagement projects to improve representation and equity for marginalized groups in science
+- 💞️ Looking to collaborate on pipeline development, science communication, and public engagement.
+- 📫 Reach me
 
 <!---
 priyanka-surana/priyanka-surana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
